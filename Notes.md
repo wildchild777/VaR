@@ -1,0 +1,156 @@
+### Notes from Philippe\_Jorion\_Value\_at\_Risk\_The\_New\_Be.pdf:
+
+
+
+#### 
+
+**These are my notes, for my VaR project!**
+
+
+
+#### **Chapter 1** 
+
+
+
+The point of most businesses is to manage risk - the companies that are good at it, usually excel while other fail!
+
+
+
+To Hedge against risks the most useful financial instruments are derivatives! 
+
+
+
+*"Risk* can be defined as the volatility of unexpected outcomes, which can represent the value of assets, equity, or earnings" 
+
+
+
+This basically means the how much **the actual** outcomes differ from the **expected** outcomes, this gives us the uncertainty factors hence the *risk*.
+
+
+
+If the fluctuation is high - it's called high volatility (translating to higher risk!) and same for low volatility(also called stable asset)
+
+
+
+There are various kinds of risks that the firms are exposed to which can be broadly be classified as:
+
+i)Business risk 
+
+ii) Financial risk
+
+
+
+**Business risk** are those that the company decides to undertake to give them an advantage over their competition/market and create money for the shareholders. This includes the *business decision* the company makes, the *environment* they operate in etc.
+
+
+
+Business decision include investment decision, product-development choices, marketing strategies etc; this includes strategic risk - which pretty fundamental to the company and shows their philosophy at a board or top executives level.
+
+
+
+Financial risks relate to possible losses owing to market acitivites. For example losses from the rate of interest movements or defaults on financial obligations.
+
+
+
+One important point here - the primary function of financial institutions is to manage financial risks actively. Their purpose is to assume, intermediate, and or advise on financial risks.
+
+
+
+The only constant across black swan events is that they are unpredictable, this ends up causing almost all of the market observers to get hit with substantial financial losses - financial risk management provides a partial protection against such sources of risk.
+
+
+
+Around the 1970's because of a the Vietnam war funded by the US and other domestic government assistance program, it saw a lot of inflation and to squash a lot of things happened such as the fall of the fixed exchange rate system, the rise of the bond rate to squash inflation.
+
+
+
+In addition to this volatility firms became more sensitive to financial variables - prior to the 70's the bank were backed heavily by the government and worked something like the cartel. This allowed everyone to make steady profits (since interest rates were capped - Regulation Q), this allowed the banks to not care too much about the global competition, but during the 70's there came the regularization and globalization, this made the world witness movement into the market-oriented policies and de-regularization. This made the financial intuitions to be more competitive and to become very aware of the needs to address financial risks. 
+
+
+Thus the globalization caused by these factors in the 70 forced the firms to compete on a global level, and this caused them to be exposed to a lot more variety of risk. 
+
+
+
+Now after seeing this we have to question the origins of these risks, these come from many sources. 
+
+It can be human created, such business cycles (movement of the economy - booms and recessions), changes in government policies (tariffs, taxes, etc) and wars.
+
+Risks can also be because of natural phenomenon - weather, earthquakes.
+
+Risks also arise from the primary source of long-term economic growth, namely, technological innovations, which can be due to innovation in technology, which causes a shift in employment.
+
+
+
+Much of finance and insurance market is working on creating a market to share these risks - at a basic level the sum of assets, savings, provide a safety net against times where income is at a risk.
+
+Financial markets cannot provide insurance against all risks - at a large scale where macroeconomic trends that create risks create fluctuations in income and eomplyment that are difficult to hedge. That's why the government have created "safety nets" that the private sector cannot provide. 
+
+
+
+But the governments can also contribute to these risks. 
+
+
+
+1.2 DERIVATIVES
+
+
+
+"Derivatives are instruments designed to manage financial risks efficiently. 
+
+A derivative is a private contract deriving its value from some underlying asset price, some refrence rate or an index - such as stock, bonds or commodity. This contract also has some notional amount, defined in term of currency, shares, bushels etc.
+
+
+
+A derivative always has three key ingredients:
+
+Underlying asset → what it’s based on (e.g. stock, oil, rate).
+
+Notional amount → how much of that underlying it refers to.
+
+Contract terms → how the payoff is calculated from movements in that underlying.
+
+And together, these define the exposure and value of the derivative.
+
+
+
+Mapping is the process of transforming your positions into risk exposures — so that your portfolio’s risk can be understood, compared, and quantified in a common framework.
+
+
+
+An important point for later is that - the market for these derivative instruments appear so much bigger than what they are because of the notional value not the acutal money at stake - an example:
+
+
+Each underlying asset (say, Apple stock or USD/EUR exchange rate) can have many derivatives written on it:
+
+Hedge funds may buy options to hedge volatility.
+
+Corporates may use forwards for risk management.
+
+Traders may use futures to speculate.
+
+Banks may use swaps to manage interest rate risk.
+
+Dealers may offset client trades with each other.
+
+**So, hundreds of contracts can be based on the same underlying exposure — all counted separately in notional terms.**
+
+It’s like the same $1 of gold having hundreds of bets placed on how its price will move — all “derivatives” of it.
+
+
+
+1.3 Risk Management 
+
+
+
+Financial risk management refers to the design and implementation of procedures for identifying, measuring and managing financial risks.
+
+
+
+To limit potential losses while still allowing traders to take views on markets - this is the essence of a risk manager's job.
+
+
+
+
+
+
+
