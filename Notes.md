@@ -8,7 +8,7 @@
 
 
 
-#### **Chapter 1** 
+#### **Chapter 1**
 
 
 
@@ -16,11 +16,11 @@ The point of most businesses is to manage risk - the companies that are good at 
 
 
 
-To Hedge against risks the most useful financial instruments are derivatives! 
+To Hedge against risks the most useful financial instruments are derivatives!
 
 
 
-*"Risk* can be defined as the volatility of unexpected outcomes, which can represent the value of assets, equity, or earnings" 
+*"Risk* can be defined as the volatility of unexpected outcomes, which can represent the value of assets, equity, or earnings"
 
 
 
@@ -34,7 +34,7 @@ If the fluctuation is high - it's called high volatility (translating to higher 
 
 There are various kinds of risks that the firms are exposed to which can be broadly be classified as:
 
-i)Business risk 
+i)Business risk
 
 ii) Financial risk
 
@@ -64,14 +64,15 @@ Around the 1970's because of a the Vietnam war funded by the US and other domest
 
 
 
-In addition to this volatility firms became more sensitive to financial variables - prior to the 70's the bank were backed heavily by the government and worked something like the cartel. This allowed everyone to make steady profits (since interest rates were capped - Regulation Q), this allowed the banks to not care too much about the global competition, but during the 70's there came the regularization and globalization, this made the world witness movement into the market-oriented policies and de-regularization. This made the financial intuitions to be more competitive and to become very aware of the needs to address financial risks. 
-
-
-Thus the globalization caused by these factors in the 70 forced the firms to compete on a global level, and this caused them to be exposed to a lot more variety of risk. 
+In addition to this volatility firms became more sensitive to financial variables - prior to the 70's the bank were backed heavily by the government and worked something like the cartel. This allowed everyone to make steady profits (since interest rates were capped - Regulation Q), this allowed the banks to not care too much about the global competition, but during the 70's there came the regularization and globalization, this made the world witness movement into the market-oriented policies and de-regularization. This made the financial intuitions to be more competitive and to become very aware of the needs to address financial risks.
 
 
 
-Now after seeing this we have to question the origins of these risks, these come from many sources. 
+Thus the globalization caused by these factors in the 70 forced the firms to compete on a global level, and this caused them to be exposed to a lot more variety of risk.
+
+
+
+Now after seeing this we have to question the origins of these risks, these come from many sources.
 
 It can be human created, such business cycles (movement of the economy - booms and recessions), changes in government policies (tariffs, taxes, etc) and wars.
 
@@ -83,11 +84,11 @@ Risks also arise from the primary source of long-term economic growth, namely, t
 
 Much of finance and insurance market is working on creating a market to share these risks - at a basic level the sum of assets, savings, provide a safety net against times where income is at a risk.
 
-Financial markets cannot provide insurance against all risks - at a large scale where macroeconomic trends that create risks create fluctuations in income and eomplyment that are difficult to hedge. That's why the government have created "safety nets" that the private sector cannot provide. 
+Financial markets cannot provide insurance against all risks - at a large scale where macroeconomic trends that create risks create fluctuations in income and eomplyment that are difficult to hedge. That's why the government have created "safety nets" that the private sector cannot provide.
 
 
 
-But the governments can also contribute to these risks. 
+But the governments can also contribute to these risks.
 
 
 
@@ -95,7 +96,7 @@ But the governments can also contribute to these risks.
 
 
 
-"Derivatives are instruments designed to manage financial risks efficiently. 
+"Derivatives are instruments designed to manage financial risks efficiently.
 
 A derivative is a private contract deriving its value from some underlying asset price, some refrence rate or an index - such as stock, bonds or commodity. This contract also has some notional amount, defined in term of currency, shares, bushels etc.
 
@@ -120,6 +121,7 @@ Mapping is the process of transforming your positions into risk exposures — so
 An important point for later is that - the market for these derivative instruments appear so much bigger than what they are because of the notional value not the acutal money at stake - an example:
 
 
+
 Each underlying asset (say, Apple stock or USD/EUR exchange rate) can have many derivatives written on it:
 
 Hedge funds may buy options to hedge volatility.
@@ -138,7 +140,7 @@ It’s like the same $1 of gold having hundreds of bets placed on how its price 
 
 
 
-1.3 Risk Management 
+1.3 Risk Management
 
 
 
@@ -150,7 +152,64 @@ To limit potential losses while still allowing traders to take views on markets 
 
 
 
+One possibility to limit potential losses is to establish stop-loss limits - if the total loss of a traders position exceeds some limit, the position will be cut. The problem with this approach is that the controls are applied after the movement and thus there are no guarantee that the loss will be close to the limit.
 
+
+
+Therefore the manager needs to use a strategy that looks before something happens to the portfolio - a forward-looking strategy. With this *a limit* can be placed on the notional amount, this is not sufficient, however for the same notional amount some bonds have extreme risks and other no risks - so therefore the manager needs to know how the instruments respond to risk factors as well as the range of potential movements in risk factors.
+
+
+
+The conventional risk measurement approach to a typical 10-year coupon-paying bond is as follows:
+
+
+The three steps are:
+
+Valuation problem → Find the current price given the yield
+
+Sensitivity analysis → Find how sensitive the price is to small changes in yield
+
+Scenario (or stress) analysis → See what happens to price if yields move a lot
+
+These three steps together tell you how risky your bond is with respect to interest rate movements.
+
+
+
+
+
+Sensitivity analysis tests how much the price or value of an instrument changes when one underlying variable (like interest rate or yield) moves — this change is usually small and measured as the slope or delta.
+
+Scenario analysis, on the other hand, looks at how multiple factors (interest rates, political or economic changes, etc.) move together and affect the outcome.
+
+It considers possible correlations or covariances between variables and allows for larger, more realistic market shifts.
+
+While sensitivity shows isolated effects, scenario analysis captures the combined impact of broader market movements.
+
+
+
+VaR is statistical because it measures the probability and magnitude of potential losses using historical data, probability distributions, and confidence levels — not just judgment or accounting figures.
+
+
+
+VAR goes a step further: instead of just telling you the price, it tells you how much value could potentially be lost due to changes in market variables (like stock prices, interest rates, or volatility).
+
+
+
+**Valuation models** (like Black-Scholes) → focus on pricing the derivative today under certain assumptions (like volatility, interest rates, etc.). They mostly care about the mean or expected payoff.
+
+
+
+**VAR (Value at Risk)** → looks at the distribution of possible outcomes, especially the lower tail. It says: “With X% confidence, my losses won’t exceed this amount.” So it’s about the likely worst losses, but not the absolute worst possible.
+
+
+
+**Stress testing** → goes beyond VAR. It examines the extreme tail events, like the worst 1% or 0.1% of outcomes, to see how catastrophic things could get.
+
+
+
+Another difference is that valuation methods operate in a risk-neutral world, whereas
+
+risk management methods deal with actual distributions.
 
 
 
