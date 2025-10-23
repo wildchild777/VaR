@@ -213,3 +213,17 @@ risk management methods deal with actual distributions.
 
 
 
+**Market risk:**
+
+
+
+Market risk is the risk of losses owing to movements in the level or volatility of market prices.
+
+
+
+
+
+
+
+
+
