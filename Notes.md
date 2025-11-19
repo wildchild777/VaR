@@ -96,7 +96,7 @@ But the governments can also contribute to these risks.
 
 
 
-"Derivatives are instruments designed to manage financial risks efficiently.
+"Derivatives are instruments designed to manage financial risks efficiently."
 
 A derivative is a private contract deriving its value from some underlying asset price, some refrence rate or an index - such as stock, bonds or commodity. This contract also has some notional amount, defined in term of currency, shares, bushels etc.
 
@@ -163,6 +163,7 @@ Therefore the manager needs to use a strategy that looks before something happen
 The conventional risk measurement approach to a typical 10-year coupon-paying bond is as follows:
 
 
+
 The three steps are:
 
 Valuation problem → Find the current price given the yield
@@ -213,13 +214,89 @@ risk management methods deal with actual distributions.
 
 
 
-**Market risk:**
+
+
+1.4 Types of financial risk
+
+
+
+**1.4.1 Market risk:**
 
 
 
 Market risk is the risk of losses owing to movements in the level or volatility of market prices.
 
 
+
+There are two forms of market risk, absolute risk and relative risk.
+
+
+
+Absolute risk: Measured in dollar terms focuses on the volatility of the total returns.(Like how much can the portfolio can lose on it's own)
+
+
+
+Relative risk: measured in the benchmark index, in terms of tracking error, or deviation from the index. (How much do we deviate from an Index like S\&P500)
+
+
+
+Market risks can also be directional and nondirectional.
+
+
+
+Directional risk involve exposures to the direction of movements in financial variables, such as stock prices, interest rates, exchange rates and commodity prices. (Exposed to this if the risk is from the direction of the market movements, like stock price rising or falling, interest rates going up or down etc)
+
+
+
+Non-Directional risks involve the remaining risks, which consist of nonlinear exposures and exposures to hedged position or to volatilities. (How positions interact with eachother)
+
+
+
+Basic risk is created from unanticipated movements in the relative prices of assests in a hedged position, such as cash and futures or interest-rate spreads. (This is a type of non-directional risk; which comes from unexpected changes in the price difference between cash v/s future etc.)
+
+
+
+volatility risk measures exposure to movements in the actual or implied volatility. (Risk that come from changes in  volatility)
+
+
+
+**1.4.2 Liquidity Risk**
+
+
+
+There are 2 forms of liquidity risk, asset liquidity risk and funding liquidity risk.
+
+
+
+Asset-liquidity risk is when a transaction cannot be conducted at prevailing market prices owing to the size of the piston relative to the normal trading lots. This is varied across categories of assets and time in condition to market conditions. 
+
+
+
+Funding-liquidity risk, also known as cash-flow risk, refers to the inability to meet payments obligations which may force early liquidation this transformation paper losses into realized losses. 
+
+
+
+**1.4.3 Credit Risk**
+
+
+
+Credit risk is the risk of losses owing to the fact that counter parties may be unwilling or unable to fulfill their contractual obligations. Its effect is measured by the cost of replacing cash flows if the other party defaults.
+
+
+
+This loss encompasses the exposure - amount of risk and the recovery rate which is the proportion pad back to the lender, usually measured in terms of "cents on the dollar"
+
+
+
+**1.4.4 Operational risk**
+
+
+
+Operational risk the risk of loss resulting from inadequate or failed internal processes, people and systems or from external events.
+
+
+
+Model risk is part of inadequate internal process. This refers to the risk of losses owing to the fact that valuation model may be flawed.  
 
 
 
