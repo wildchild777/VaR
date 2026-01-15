@@ -268,11 +268,11 @@ There are 2 forms of liquidity risk, asset liquidity risk and funding liquidity 
 
 
 
-Asset-liquidity risk is when a transaction cannot be conducted at prevailing market prices owing to the size of the piston relative to the normal trading lots. This is varied across categories of assets and time in condition to market conditions. 
+Asset-liquidity risk is when a transaction cannot be conducted at prevailing market prices owing to the size of the piston relative to the normal trading lots. This is varied across categories of assets and time in condition to market conditions.
 
 
 
-Funding-liquidity risk, also known as cash-flow risk, refers to the inability to meet payments obligations which may force early liquidation this transformation paper losses into realized losses. 
+Funding-liquidity risk, also known as cash-flow risk, refers to the inability to meet payments obligations which may force early liquidation this transformation paper losses into realized losses.
 
 
 
@@ -296,11 +296,49 @@ Operational risk the risk of loss resulting from inadequate or failed internal p
 
 
 
-Model risk is part of inadequate internal process. This refers to the risk of losses owing to the fact that valuation model may be flawed.  
+Model risk is part of inadequate internal process. This refers to the risk of losses owing to the fact that valuation model may be flawed.
 
 
 
+### **Chapter 4**
 
 
 
+Finance theory defines risk as the dispersion of unexpected outcomes owing to movements in financial variables, both positive and negative deviations should be viewed as sources of risk.
+
+
+
+Risk = Uncertainty in the financial variable you care about (like portfolio value, earnings, capital etc.) caused by movements in relevant financial factors.
+
+
+
+You cannot measure risk until you:
+
+define the variable,
+
+identify which financial factors affect it,
+
+
+
+measure how sensitive that variable is to those factors.
+
+
+
+**4.1 Market Risks**
+
+
+
+There are broadly 4 types of risks in the financial-market : interest-rate risk, exchange-rate risk, equity risk, and commodity risk.
+
+
+
+Risk can be measured by the Standard deviation of unexpected outcome, called sigma also called volatility.
+
+
+
+Losses can occur through a combination of two factors: the volitility in the underlying financial variable and how much they are exposed to this source of risk.
+
+
+
+Measurements of linear or first order expisre to movements int underlying risk cariables appear everywhere under different guises. In the fiexed income market, exposure to movements in interest reates is called duration/ In the stock market this exposure is called systematic risk or beta. In the options market expisreu to movemens in the vlayue of the underlying asset i called delta/ Quadratic or second order rexpisres are called convexity adn gamma in the fiexed income and options market respectively
 
