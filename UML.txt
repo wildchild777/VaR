@@ -1,0 +1,27 @@
+ver 0.1
+
+@startuml
+Interface MarketDataBuilder
+class YahooDataForStock
+
+Interface Portfolio
+class StockPortfolio
+
+Interface VaRCalculator
+Class HistoricalVaR
+Class ParametricVaR
+
+Interface Backtesting
+class VaRBacktester
+
+MarketDataBuilder <|.. YahooDataForStock
+Portfolio <|.. StockPortfolio
+VaRCalculator <|.. HistoricalVaR
+VaRCalculator <|.. ParametricVaR
+Backtesting <|.. VaRBacktester
+
+StockPortfolio --> MarketDataBuilder : uses
+VaRCalculator --> Portfolio : consumes returns
+VaRBacktester --> VaRCalculator : evaluates
+
+@enduml
